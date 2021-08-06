@@ -1,4 +1,9 @@
 .App {
+  align-items: center;
+  width: auto;
+  background-color: black;
+}
+.react-player fixed-bottom{
   text-align: center;
 }
 
@@ -36,3 +41,4 @@
     transform: rotate(360deg);
   }
 }
+
